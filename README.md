@@ -7,3 +7,7 @@ La aplicación consolida cuentas, gastos, deudas, compromisos y liquidez para ca
 Técnicamente construí ComoGasto360 por encima de la complejidad que exige un MVP: el objetivo paralelo es utilizar un dominio real para demostrar arquitectura de microservicios, eventos, CQRS, resiliencia, seguridad, observabilidad, CI/CD, Kubernetes e infraestructura como código.
 
 El *overskill* no es accidental; es el objeto de aprendizaje, y está documentado junto con sus costes y la alternativa monolítica que utilizaría en un producto orientado únicamente a *time-to-market*.
+
+## Licencia
+
+ComoGasto360 es una plataforma propietaria. Todos los derechos sobre el software y los materiales originales del proyecto están reservados; no se concede permiso de uso, copia, modificación o distribución sin autorización previa y por escrito. Consulta el archivo [LICENSE](LICENSE) para conocer los términos.
